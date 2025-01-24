@@ -1,0 +1,11 @@
+addict
+blend-modes
+segment-anything
+pyqt5
+yapf
+platformdirs
+translate
+pycryptodome
+pycryptodomex
+ntplib
+py-cpuinfo  
