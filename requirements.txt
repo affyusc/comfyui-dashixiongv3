@@ -9,3 +9,4 @@ pycryptodome
 pycryptodomex
 ntplib
 py-cpuinfo  
+transparent_background
